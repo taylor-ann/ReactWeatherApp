@@ -1,10 +1,10 @@
 .Weather {
-  font-family: Arial, sans-serif;
-  border: 1px solid #e2e2e6;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 1px solid #ffff;
   padding: 16px;
-  color: rgb(135 135 135);
+  color: lightgray;
   border-radius: 5px;
-  background-color: #c4c1e0;
+  background-color: rgb(154, 198, 242);
 }
 
 .Weather form {
@@ -16,13 +16,13 @@
   font-weight: 100;
   line-height: 29px;
   margin-bottom: 0;
-  color: black;
+  color: white;
 }
 
 .Weather ul {
   margin: 0;
   padding: 0;
-  color: black;
+  color: whitesmoke;
 }
 
 .Weather li {
@@ -30,7 +30,7 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
-  color: black;
+  color: rgb(33, 33, 33);
 }
 
 .Weather canvas {
